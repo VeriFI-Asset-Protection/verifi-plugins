@@ -1,0 +1,13 @@
+{
+  "name": "verifi",
+  "displayName": "verifi",
+  "version": "1.0.0",
+  "description": "Work with your VeriFi inspection platform, signed in as yourself.",
+  "author": {
+    "name": "VeriFi Asset Protection",
+    "url": "https://www.veri.fi"
+  },
+  "homepage": "https://www.veri.fi",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://www.veri.fi/privacy-policy"
+}

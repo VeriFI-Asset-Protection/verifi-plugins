@@ -1,0 +1,13 @@
+{
+  "name": "verifi-plugins",
+  "description": "verifi plugins for Claude.",
+  "owner": {
+    "name": "VeriFi Asset Protection"
+  },
+  "plugins": [
+    {
+      "name": "verifi",
+      "source": "./plugins/verifi"
+    }
+  ]
+}
